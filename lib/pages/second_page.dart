@@ -21,7 +21,7 @@ class SecondPage extends StatelessWidget {
             const SizedBox(height: 25),
             //title
             const Text(
-              "Minimal Shop",
+              "Matabbor Shop",
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 24,
